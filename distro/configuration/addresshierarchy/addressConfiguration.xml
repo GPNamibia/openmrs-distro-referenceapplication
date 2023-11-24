@@ -5,7 +5,16 @@
       <field>COUNTRY</field>
       <nameMapping>Location.country</nameMapping>
       <sizeMapping>40</sizeMapping>
+<<<<<<< HEAD
       <elementDefault>Namibia</elementDefault>
+=======
+      <requiredInHierarchy>true</requiredInHierarchy>
+    </addressComponent>
+    <addressComponent>
+      <field>STATE_PROVINCE</field>
+      <nameMapping>Location.province</nameMapping>
+      <sizeMapping>40</sizeMapping>
+>>>>>>> f30c0b141bef8854f88a829b0fa11dabf9c40fc5
       <requiredInHierarchy>true</requiredInHierarchy>
     </addressComponent>
     <addressComponent>
